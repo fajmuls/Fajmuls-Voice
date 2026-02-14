@@ -1,0 +1,6 @@
+
+{
+  "name": "Fajmuls Voice - AI Speaker Visualizer",
+  "description": "An advanced audio analysis tool that uses Gemini AI to diarize speakers and visualize their activity in real-time with dynamic image linking.",
+  "requestFramePermissions": []
+}
